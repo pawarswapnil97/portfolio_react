@@ -15,6 +15,7 @@ const Portfolio = () => {
                 <img
                   src="https://pawarswapnil97.github.io/Constraction/img1/why-1.png"
                   className="w-100 pimg shadow"
+                  alt="Project 1"
                 />
                 <h5 className="text-dark mt-3">Constraction Website</h5>
                 <p>Technology Used : HTML, CSS and Bootstrap</p>
@@ -33,6 +34,7 @@ const Portfolio = () => {
                 <img
                   src="https://bootstrapmade.com/demo/templates/Flattern/assets/img/slide/slide-2.jpg"
                   className="w-100 pimg shadow"
+                  alt="Project 1"
                 />
                 <h5 className="text-dark mt-3">Flattern Website</h5>
                 <p>Technology Used : HTML, CSS, Bootstrap</p>
@@ -51,6 +53,7 @@ const Portfolio = () => {
                 <img
                   src="https://pawarswapnil97.github.io/SolarSystem/Assaet/img/g4.jpg"
                   className="w-100 pimg shadow"
+                  alt="Project 1"
                 />
                 {/* <video src="https://pawarswapnil97.github.io/SolarSystem/Assaet/img/Video.mp4" autoplay="" muted="" playsinline="" loop="" class="w-100 shadow pimg"></video> */}
                 <h5 className="text-dark mt-3">Solar System</h5>
@@ -70,6 +73,7 @@ const Portfolio = () => {
                 <img
                   src="https://t4.ftcdn.net/jpg/05/08/09/59/360_F_508095918_EfLZJilo2BaKaceKcYJQEpuRBVO0TMlt.jpg"
                   className="w-100 pimg shadow"
+                  alt="Project 1"
                 />
                 <h5 className="text-dark mt-3">Weather App</h5>
                 <p>Technology Used : React JS and Bootstrap</p>
@@ -88,6 +92,7 @@ const Portfolio = () => {
                 <img
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOrFIwQvfJAc4kSu29V6Zs2xvb8BWZ37o5eD8MKIShUwO2d2Qif4VfI7kQ1iWdrr2JuY&usqp=CAU"
                   className="w-100 pimg shadow"
+                  alt="Project 1"
                 />
                 <h5 className="text-dark mt-3">Crypto Price Tracker</h5>
                 <p>
@@ -109,6 +114,7 @@ const Portfolio = () => {
                 <img
                   src="https://th.bing.com/th/id/OIP.UPEgw_uhKrlhXKHvjHx3egAAAA?w=191&h=191&c=7&r=0&o=5&dpr=1.3&pid=1.7"
                   className="w-100 pimg shadow"
+                  alt="Project 1"
                 />
                 <h5 className="text-dark mt-3">Bank Application</h5>
                 <p>
@@ -116,7 +122,7 @@ const Portfolio = () => {
                   Simply add, diposite user balance <br />
                   Technology Used : Java{" "}
                 </p>
-                <a href="">
+                <a href="#">
                   <button className="btn btn-outline-primary btn-sm">
                     View Project
                   </button>
@@ -177,6 +183,7 @@ const Portfolio = () => {
                 <img
                   src="https://static.wixstatic.com/media/703249_a48eac8e0d7a41ca96787d90d8c0bca2~mv2.jpg/v1/fill/w_540,h_386,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/model_jpeg.jpg"
                   className="w-100 pimg shadow "
+                  alt="Project 1"
                 />
                 <h5 className="text-dark mt-3">MegMo</h5>
                 <p>

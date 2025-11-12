@@ -50,6 +50,7 @@ const Contact = () => {
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242118.14200242542!2d73.72287515247785!3d18.52456485551234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2z4KSq4KWB4KSj4KWHLCDgpK7gpLngpL7gpLDgpL7gpLfgpY3gpJ_gpY3gpLA!5e0!3m2!1smr!2sin!4v1669825201815!5m2!1smr!2sin"
           className="w-100 mt-5"
+           title="Google Maps Location"
           style={{ height: "400px" }}
         ></iframe>
       </div>
