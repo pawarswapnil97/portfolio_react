@@ -122,11 +122,10 @@ const Portfolio = () => {
                   Simply add, diposite user balance <br />
                   Technology Used : Java{" "}
                 </p>
-                <a href="#">
-                  <button className="btn btn-outline-primary btn-sm">
-                    View Project
-                  </button>
-                </a>
+             <a href="/" target="_blank" rel="noopener noreferrer">
+  View Project
+</a>
+
               </div>
             </div>
           </div>
@@ -160,6 +159,7 @@ const Portfolio = () => {
                 <img
                   src="https://pearl.stylemixthemes.com/seo-agency/wp-content/uploads/sites/38/2019/01/slide1.png"
                   className="w-100 pimg border shadow"
+                  alt="my portfolio"
                 />
                 <h5 className="text-dark mt-3">Email Sender Application</h5>
                 <p>
